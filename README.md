@@ -1,3 +1,3 @@
 # Snake-game
 
-Game can be played on pugvsgold.github.io/snakegame using arrow keys
+Game can be played [Here!](pugvsgold.github.io/snakegame) using arrow keys
